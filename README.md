@@ -14,7 +14,8 @@ This portfolio presents my software engineering profile with:
 - Direct contact links and resume access
 
 ## Tech Stack
-- HTML5
+- React
+- Vite
 - CSS3
 
 ## Project Structure
